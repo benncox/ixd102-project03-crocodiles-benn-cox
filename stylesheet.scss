@@ -127,6 +127,7 @@ body {
             :nth-child(2) {
                 font-size: 24px;
                 font-weight: 700;
+                color: #ffce00;
             }
         }
 
@@ -190,6 +191,10 @@ body {
             :nth-child(1) {
                 font-size: 36px;
                 font-family: 'Corinthia', cursive;
+            }
+
+            :nth-child(2) {
+                color: #ffce00;
             }
         }
 

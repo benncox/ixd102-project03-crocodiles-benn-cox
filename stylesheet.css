@@ -464,6 +464,7 @@ blockquote {
 #topNav .container .myLogo :nth-child(2) {
   font-size: 24px;
   font-weight: 700;
+  color: #ffce00;
 }
 #topNav .container .nav-links a {
   text-decoration: none;
@@ -840,6 +841,9 @@ blockquote {
 #myHeader .content-container h1 :nth-child(1) {
   font-size: 36px;
   font-family: "Corinthia", cursive;
+}
+#myHeader .content-container h1 :nth-child(2) {
+  color: #ffce00;
 }
 #myHeader .content-container h4 {
   margin-bottom: 8px;
